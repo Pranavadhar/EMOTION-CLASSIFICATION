@@ -13,7 +13,7 @@ st.title("EMOTION RECOGNITION")
 st.write("This project tackles emotion recognition in images using a convolutional neural network (CNN) model, trained on labeled emotional faces. The model predicts the most likely emotion (Anger, Disgust, Fear, Happiness, Sadness, Surprise) displayed in the image.")
 
 st.write("DATASET: [Emotion Dataset](https://huggingface.co/spaces/Pranavadhar/EMOTION/blob/main/emotion_dataset.zip)")
-st.write("SAMPLE IMAGES: [Sample Images](https://huggingface.co/spaces/Pranavadhar/EMOTION/blob/main/SAMPLE_IMAGES.zip)")
+st.write("SAMPLE IMAGES: [Sample Images](https://github.com/Pranavadhar/EMOTION-CLASSIFICATION/blob/main/SAMPLE_IMAGES.zip)")
 st.write("GitHub Repository: [GitHub - Pranavadhar](https://github.com/pranavadhar)")
 st.write("Portfolio Website: [Pranavadhar - Portfolio](https://pranavadhar.github.io/Pranavadhar-overview---web-work/)")
 
